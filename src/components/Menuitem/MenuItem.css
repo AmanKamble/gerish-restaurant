@@ -27,7 +27,7 @@
     margin: 0px 1rem;
 }
 
-.app__menuitem-price{
+.app__menuitem-price {
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
